@@ -21,14 +21,13 @@ body {
 
 .navigasi li {
     display: inline-block;
-    padding: 10px;
+    padding: 20px;
 }
 
-.container .heading .navigasi {
-    background-color: grey;
-}
 
 .heading .navigasi {
+    background-color: rgb(192, 160, 192);
+    height: 80px;
     text-align: right;
     word-spacing: 10px;
 }
@@ -39,10 +38,10 @@ body {
     font-weight: bold;
 }
 
-.navigasi li a:hover {
+.navigasi li:hover {
     font-size: 15px;
-    padding: 10px;
-    background-color:rgb(117, 108, 108);
+    padding: 31px;
+    background-color:rgb(143, 119, 143);
 }
 
 
